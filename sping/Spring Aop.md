@@ -43,7 +43,8 @@ H~2~O
 
 
 
-```sequence
+```mermaid
+sequenceDiagram
 客户端->服务端: 我想找你拿下数据 SYN
 服务端-->客户端: 我收到你的请求啦 ACK+SYN
 客户端->>服务端: 我收到你的确认啦，我们开始通信吧 ACK
