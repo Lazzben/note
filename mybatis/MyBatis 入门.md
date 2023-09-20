@@ -1,5 +1,7 @@
 # MyBatis入门
 
+[代码地址](https://github.com/Lazzben/mybatis-learn/tree/main/mybatis-introduction)
+
 [TOC]
 
 ## 第一个MyBatis程序：使用非Mapper接口方式执行CURD
