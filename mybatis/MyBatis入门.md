@@ -1,6 +1,6 @@
 # MyBatis入门
 
-[代码地址](https://github.com/Lazzben/mybatis-learn/tree/main/mybatis-introduction)
+[代码地址](https://github.com/Lazyben-pg/mybatis-learn/tree/main/mybatis-introduction)
 
 [TOC]
 
