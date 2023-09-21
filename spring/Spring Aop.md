@@ -12,7 +12,7 @@
 
   - 在横向，不同的核心业务模块中有一些与具体业务逻辑无关，但有反复出现的功能，可以抽象一个切面：一个横跨多个对象的关注点。例如日志、监控、事务等。把这些功能抽象成单独模块，一方面可以提升代码复用度，一方面可以让程序员专注于编写核心业务。
 
-<img src="/Users/lazyben/Documents/note/spring/img/image-20230921143109385.png" alt="image-20230921143109385" style="zoom:50%;" />
+<img src="./img/image-20230921143109385.png" alt="image-20230921143109385" style="zoom:50%;" />
 
 ## AOP的好处
 
@@ -34,7 +34,7 @@
 
   - 基于类的代理，使用 CGLIB 动态代理实现。
 
-  <img src="/Users/lazyben/Documents/note/spring/img/image-20230921142952588.png" alt="image-20230921142952588" style="zoom:50%;" />
+  <img src="./img/image-20230921142952588.png" alt="image-20230921142952588" style="zoom:50%;" />
 
 ## AOP核心术语
 
